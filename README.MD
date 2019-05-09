@@ -2,7 +2,7 @@ Fork from [Plortinus/element-china-area-data](https://github.com/Plortinus/eleme
 
 补充'东莞市'以及'中山市'的数据。
 
-补充的数据来源:[Jayin/china-area-data](https://github.com/Jayin/china-area-data/tree/master/v4)
+补充的数据来源：[Jayin/china-area-data](https://github.com/Jayin/china-area-data/tree/master/v4)
 
 # Element UI 中国省市区级联数据
 
