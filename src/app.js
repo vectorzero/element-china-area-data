@@ -1,4 +1,4 @@
-import REGION_DATA from 'china-area-data'
+import REGION_DATA from '../static/data.json'
 import cloneDeep from 'lodash/cloneDeep'
 
 // code转汉字大对象
