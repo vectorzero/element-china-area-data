@@ -9,7 +9,7 @@
 
 ## 在线示例
 
-[地址在此，网页打开会比较慢](https://plortinus.github.io/element-china-area-data/index.html)
+[地址在此，网页打开会比较慢](https://vectorzero.github.io/element-china-area-data/index.html)
 
 ## 使用
 
