@@ -1,3 +1,9 @@
+Fork from [Plortinus/element-china-area-data](https://github.com/Plortinus/element-china-area-data)
+
+补充'东莞市'以及'中山市'的数据。
+
+补充的数据来源:[Jayin/china-area-data](https://github.com/Jayin/china-area-data/tree/master/v4)
+
 # Element UI 中国省市区级联数据
 
 [![npm](https://img.shields.io/npm/v/element-china-area-data.svg)](https://www.npmjs.com/package/element-china-area-data) [![npm](https://img.shields.io/npm/dt/element-china-area-data.svg)](https://www.npmjs.com/package/element-china-area-data)
@@ -5,11 +11,11 @@
 
 ## 安装
 
-  `npm install element-china-area-data -S`
+  `npm install linxl-element-region -S`
 
 ## 在线示例
 
-[地址在此，网页打开会比较慢](https://vectorzero.github.io/element-china-area-data/index.html)
+[地址在此，网页打开会比较慢](https://vectorzero.github.io/linxl-element-region/index.html)
 
 ## 使用
 
