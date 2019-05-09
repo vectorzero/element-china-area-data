@@ -43,7 +43,7 @@ import { provinceAndCityData, regionData, provinceAndCityDataPlus, regionDataPlu
     </template>
 
     <script>
-      import { provinceAndCityData } from 'element-china-area-data'
+      import { provinceAndCityData } from 'linxl-element-region'
       export default {
         data () {
           return {
@@ -75,7 +75,7 @@ import { provinceAndCityData, regionData, provinceAndCityDataPlus, regionDataPlu
       </template>
 
       <script>
-        import { provinceAndCityDataPlus } from 'element-china-area-data'
+        import { provinceAndCityDataPlus } from 'linxl-element-region'
         export default {
           data () {
             return {
@@ -108,7 +108,7 @@ import { provinceAndCityData, regionData, provinceAndCityDataPlus, regionDataPlu
     </template>
 
     <script>
-      import { regionData } from 'element-china-area-data'
+      import { regionData } from 'linxl-element-region'
       export default {
         data () {
           return {
@@ -141,7 +141,7 @@ import { provinceAndCityData, regionData, provinceAndCityDataPlus, regionDataPlu
     </template>
 
     <script>
-      import { regionDataPlus } from 'element-china-area-data'
+      import { regionDataPlus } from 'linxl-element-region'
       export default {
         data () {
           return {
