@@ -1,10 +1,10 @@
+# Element UI 中国省市区级联数据
+
 Fork from [Plortinus/element-china-area-data](https://github.com/Plortinus/element-china-area-data)
 
 补充'东莞市'，'中山市'，'深圳市'的数据。
 
 补充的数据来源：[国家统计局2018年统计用区划代码和城乡划分代码](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html)
-
-# Element UI 中国省市区级联数据
 
 ## 安装
 
@@ -13,6 +13,8 @@ Fork from [Plortinus/element-china-area-data](https://github.com/Plortinus/eleme
 ## 在线示例
 
 [地址在此，网页打开会比较慢](https://vectorzero.github.io/linxl-element-region/index.html)
+
+注：以下文档来自原项目[Plortinus/element-china-area-data](https://github.com/Plortinus/element-china-area-data)
 
 ## 使用
 
